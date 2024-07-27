@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for an [exponential][exponential-distribution] r
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@v0.2.2-deno/mod.js';
 ```
 
 #### kurtosis( lambda )
@@ -112,7 +112,7 @@ var v = kurtosis( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@v0.2.2-deno/mod.js';
 
 var lambda;
 var v;
