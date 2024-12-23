@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-19)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,7 +34,8 @@ This release closes the following issue:
 
 <details>
 
--   [`5bb4ea6`](https://github.com/stdlib-js/stdlib/commit/5bb4ea62d91c1b6ab5210e80db10d44ab2748189) - **feat:** add C implementation for `stats/base/dists/exponential/kurtosis` [(#4058)](https://github.com/stdlib-js/stdlib/pull/4058) _(by JoyBoy)_
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`5bb4ea6`](https://github.com/stdlib-js/stdlib/commit/5bb4ea62d91c1b6ab5210e80db10d44ab2748189) - **feat:** add C implementation for `stats/base/dists/exponential/kurtosis` [(#4058)](https://github.com/stdlib-js/stdlib/pull/4058) _(by Prashant Kumar Yadav)_
 
 </details>
 
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   JoyBoy
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
