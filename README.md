@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for an [exponential][exponential-distribution] r
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@v0.3.0-esm/index.mjs';
 ```
 
 #### kurtosis( lambda )
@@ -117,7 +117,7 @@ var v = kurtosis( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-kurtosis@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
