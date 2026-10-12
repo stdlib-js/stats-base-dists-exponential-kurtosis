@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-10)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`878a16e`](https://github.com/stdlib-js/stdlib/commit/878a16e4e0726ece9f2edb62d45babc90910e040) - **test:** migrate `stats/base/dists/exponential/kurtosis` to ULP-based assertions [(#15952)](https://github.com/stdlib-js/stdlib/pull/15952) _(by Philipp Burckhardt)_
 -   [`5cc3f4f`](https://github.com/stdlib-js/stdlib/commit/5cc3f4f8aad580d87fe6ae2ed41271e4791cca70) - **bench:** refactor to use string interpolation in `stats/base/dists/exponential` [(#10346)](https://github.com/stdlib-js/stdlib/pull/10346) _(by Vishal Gaikwad)_
 -   [`88c63b2`](https://github.com/stdlib-js/stdlib/commit/88c63b2692cdefa8caa7b42906478865bedd0521) - **bench:** update random value generation for `stats/base/dists/exponential` [(#10330)](https://github.com/stdlib-js/stdlib/pull/10330) _(by Siddhartha Mondal, Philipp Burckhardt)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
